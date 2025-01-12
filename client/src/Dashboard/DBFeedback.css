@@ -1,0 +1,44 @@
+
+.text-sm {
+  font-size: 16px; 
+}
+
+.text-xs {
+  font-size: 14px;
+}
+
+.text-lg {
+  font-size: 18px; 
+}
+
+.dialog-content p {
+  font-size: 16px;
+}
+
+
+  
+  
+  
+  .custom-dialog .MuiPaper-root {
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .custom-dialog .MuiDialogTitle-root {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .custom-dialog .MuiDialogContent-root {
+    color: #555;
+  }
+  
+  .custom-dialog .MuiDialogActions-root {
+    justify-content: flex-end;
+  }
+
+  
+  .custom-popup {
+  background-color: #fff0f8;  /* Set to your desired color */
+}
+  
